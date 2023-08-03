@@ -1,3 +1,5 @@
+##Building a url shortner react app, the tech stack used: React JS. Server and database are Python Flask. The database is Firebase and it is deployed using Heroku.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
